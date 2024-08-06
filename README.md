@@ -19,6 +19,6 @@ or run `go run ./src/main.go`
 
 ## Screenshots:
 
-![screenshot1]("https://github.com/lucasedson/simple-port-scanner/blob/main/screenshots/screen1.png?raw=true")
+![screenshot1](https://github.com/lucasedson/simple-port-scanner/blob/main/screenshots/screen1.png)
 
-![screenshot2]("https://github.com/lucasedson/simple-port-scanner/blob/main/screenshots/screen2.png?raw=true")
+![screenshot2](https://github.com/lucasedson/simple-port-scanner/blob/main/screenshots/screen2.png)
