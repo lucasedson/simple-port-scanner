@@ -16,3 +16,9 @@ Just insert the IP address and portrange you want to scan and be happy.
 Clone the repository and use `make` for PC or `make-android` for Android.
 
 or run `go run ./src/main.go`
+
+## Screenshots:
+
+![screenshot1]("https://github.com/lucasedson/simple-port-scanner/blob/main/screenshots/screen1.png?raw=true")
+
+![screenshot2]("https://github.com/lucasedson/simple-port-scanner/blob/main/screenshots/screen2.png?raw=true")
